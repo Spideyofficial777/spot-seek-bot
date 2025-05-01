@@ -129,7 +129,7 @@ playlist_download_rate = 0.5
 queue_handler_max_forwards_in_a_row = 10
 
 # promote channel
-promote_channel_username = "@Arashnm80_Channel"
+promote_channel_username = "@Spideyofficial_777"
 promote_channel_link = f"https://t.me/{promote_channel_username.lstrip('@')}"
 not_subscribed_to_channel_message = '''Your link is correct✅.
 Join to get access to database, then send your link again.'''
